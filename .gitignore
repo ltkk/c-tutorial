@@ -1,0 +1,8 @@
+# run file 
+*.exe
+
+# video file
+*.mp4
+
+# ide
+.vscode/
